@@ -1,0 +1,4 @@
+(executable
+ (public_name gravatars)
+ (name main)
+ (libraries base ocaml-canvas))
